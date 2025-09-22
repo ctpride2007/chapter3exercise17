@@ -16,7 +16,7 @@ int main()
 	int num1 = rand() % 900 + 100, num2 = rand() % 900 + 100;
 
 	cout << " Solve the displayed problem. \n ";
-	cout << "  " << num1 << endl;
+	cout << " " << num1 << endl;
 	cout << "+ " << num2 << endl;
 	cout << "----" << endl;
 
@@ -26,7 +26,7 @@ int main()
 
 	int sum = num1 + num2;
 
-	cout << "\n  " << num1 << endl;
+	cout << "\n " << num1 << endl;
 	cout << "+ " << num2 << endl;
 	cout << "----" << endl;
 	cout << "  " << sum << endl;
