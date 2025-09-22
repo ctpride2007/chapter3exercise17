@@ -26,7 +26,7 @@ int main()
 
 	int sum = num1 + num2;
 
-	cout << "\n " << num1 << endl;
+	cout << "\n  " << num1 << endl;
 	cout << "+ " << num2 << endl;
 	cout << "----" << endl;
 	cout << "  " << sum << endl;
