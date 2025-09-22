@@ -20,7 +20,7 @@ int main()
 	cout << "+ " << num2 << endl;
 	cout << "----" << endl;
 
-	cout << "\nPress enter to show answer.";
+	cout << "\nPress enter twice to show answer.";
 	cin.ignore();
 	cin.get();
 
