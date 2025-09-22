@@ -1,5 +1,5 @@
 /*
-* File Name: chapter3exercise6
+* File Name: chapter3exercise17
 * Programmer: Carter Pride
 * Date: 09/2025
 * Purpose: display a math problem, give user time to solve, and show answer.
