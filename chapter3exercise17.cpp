@@ -2,7 +2,7 @@
 * File Name: chapter3exercise6
 * Programmer: Carter Pride
 * Date: 09/2025
-* Purpose to determine the amount of ingrediants needed to bake a desired amount of cookies.
+* Purpose: display a math problem, give user time to solve, and show answer.
 */
 #include <iostream>
 #include <cstdlib>
