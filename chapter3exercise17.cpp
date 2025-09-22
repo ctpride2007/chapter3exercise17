@@ -13,7 +13,7 @@ int main()
 {
 	srand(time(0));
 
-	int num1 = rant() % 900 + 100, num2 = rand() % 900 + 100;
+	int num1 = rand() % 900 + 100, num2 = rand() % 900 + 100;
 
 	cout << " Solve the displayed problem. \n ";
 	cout << "  " << num1 << endl;
